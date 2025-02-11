@@ -46,7 +46,6 @@ body {
 }
 .card {
     display: flex;
-    height: 65%;
 }
 
 
@@ -64,7 +63,6 @@ body {
     width: 50%;
     object-fit: cover;
     width: 50%;
-    height: 100%;
 }
 button {
     font-weight: 700;
